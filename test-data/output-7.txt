@@ -1,0 +1,3 @@
+SUCCESS # The ship was created
+SUCCESS # was fired from the primary
+FAIL # both of the stores were empty
