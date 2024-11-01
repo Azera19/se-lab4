@@ -1,0 +1,3 @@
+SUCCESS # The ship was created
+SUCCESS # both of the stores were fired
+FAIL # neither of the stores had torpedos

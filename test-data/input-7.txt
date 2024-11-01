@@ -1,0 +1,4 @@
+#Create a ship with 1 in the primary store and failure rate 0
+GT4500,1,0,0,0
+TORPEDO,SINGLE #fires from the primary
+TORPEDO,SINGLE #tries to fire from the secondary

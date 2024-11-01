@@ -1,0 +1,3 @@
+SUCCESS # The ship was created
+SUCCESS # Was fired from the primary
+SUCCESS # Was fired from the secondary

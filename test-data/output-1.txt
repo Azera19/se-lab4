@@ -1,0 +1,2 @@
+SUCCESS # <- The ship was created
+SUCCESS # <- was fired from the primary store
