@@ -1,0 +1,4 @@
+#Create a ship with one torpedo in the primary and zero in the secondary store, they never fail
+GT4500,1,0,1,0
+TORPEDO,ALL # should fire both of the stores
+TORPEDO,SINGLE # none of the stores can fire

@@ -1,0 +1,2 @@
+SUCCESS # The ship was created
+FAIL # A failure came up on the primary store
